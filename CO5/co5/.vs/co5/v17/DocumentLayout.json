@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\riqui\\Desktop\\codigos sistemas expertos\\CO5\\co5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B1552F-BE6F-4704-BF4C-77562C82543C}|co5\\co5.pyproj|C:\\Users\\riqui\\Desktop\\codigos sistemas expertos\\CO5\\co5\\co5\\co5.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E2B1552F-BE6F-4704-BF4C-77562C82543C}|co5\\co5.pyproj|solutionrelative:co5\\co5.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "co5.py",
+              "DocumentMoniker": "C:\\Users\\riqui\\Desktop\\codigos sistemas expertos\\CO5\\co5\\co5\\co5.py",
+              "RelativeDocumentMoniker": "co5\\co5.py",
+              "ToolTip": "C:\\Users\\riqui\\Desktop\\codigos sistemas expertos\\CO5\\co5\\co5\\co5.py",
+              "RelativeToolTip": "co5\\co5.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-16T03:28:18.455Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
